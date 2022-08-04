@@ -1,0 +1,93 @@
+/* Header */
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 262px;
+}
+.logo-link-container {
+    margin-top: 67px;
+    margin-left: 132px;
+}
+.logo {
+    font-family: 'Lato', sans-serif;
+    font-size: 32px;
+}
+.logo-link {
+    font-weight: bold;
+    color: #3D37F1;
+}
+.logo-link-span {
+    font-weight: lighter;
+    color: #4B647E;
+}
+.nav-container {
+    margin-top: 87px;
+    margin-right: 80px;
+}
+.nav-ul {
+    width: 581px;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-item {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #3D37F1;
+}
+
+
+/* First section */
+
+.first-section {
+    display: flex;
+    justify-content: space-between;
+}
+.left-block {
+    margin-left: 132px;
+    margin-top: 18px;
+}
+.left-block-top {
+    width: 600px;
+}
+.left-block-title {
+    font-family: 'Lato', sans-serif;
+    font-size: 78px;
+    color: #534D4D;
+    margin-bottom: 42px;
+}
+.left-block-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    color: #534D4D;
+}
+.first-section-btn {
+    display: flex;
+    align-items: center;
+    width: 263.67px;
+    height: 76.77px;
+    border-radius: 38px;
+    background-color: #3D37F1;
+    margin-top: 160px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.6);
+}
+.first-section-btn:hover {
+    background-color: #2019e2;
+    cursor: pointer;
+}
+.first-sec-btn-img {
+    margin: 0 24.7px 0 43px;
+}
+.first-sec-btn-text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 23px;
+    color: #fff;
+}
+.right-block {
+    margin-right: 80px;
+}
+.meeting-img {
+    width: 801px;
+}
